@@ -1,0 +1,5 @@
+{
+    "i18n-ally.localesPaths": [
+        "public/js/monaco-editor.0.45.0/vs/language"
+    ]
+}
